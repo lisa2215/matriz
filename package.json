@@ -1,0 +1,19 @@
+{
+  "name": "mat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "typescript-require": "^0.3.0"
+  },
+  "description": ""
+}
